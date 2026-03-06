@@ -27,8 +27,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xNeo-Toolbox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNeo-Toolbox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xNeo-Toolbox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xNeo-Toolbox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
 </p>
 
 ---
