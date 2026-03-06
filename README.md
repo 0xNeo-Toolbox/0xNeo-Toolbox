@@ -22,13 +22,13 @@
 ## 🚀 Featured Projects
 
 - 🤖 **[qna3script](https://github.com/0xNeo-Toolbox/qna3script)**: automated scripts for QnA3 AI (Auto Check-in & Invites).
-- 🛠 **[0xNeo-Toolboxner_assist](https://github.com/0xNeo-Toolbox/0xNeo-Toolboxner_assist)**: Web3 automation and winning assistance tools.
+- 🛠 **[web3winner_assist](https://github.com/0xNeo-Toolbox/web3winner_assist)**: Web3 automation and winning assistance tools.
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xNeo-Toolbox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNeo-Toolbox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xNeo-Toolbox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNeo-Toolbox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
 </p>
 
 ---
